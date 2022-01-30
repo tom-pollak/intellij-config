@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Black" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\tompo\AppData\Local\Programs\Python\Python310\Scripts\black.exe" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>

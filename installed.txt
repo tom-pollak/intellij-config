@@ -1,0 +1,16 @@
+IdeaVIM
+Key Promoter X
+PlantUML integration
+PythonCore
+com.arcticicestudio.nord.jetbrains
+com.caldonazzi.alessandro.uml
+com.github.copilot
+com.github.mturlo.intellij.theme.spacegray
+com.intellij.plugins.watcher
+com.mallowigi
+com.soywiz.korge.korge-intellij-plugin
+io.kanro.idea.plugin.protobuf
+monokai-pro
+org.jetbrains.kotlin
+org.rust.lang
+org.toml.lang

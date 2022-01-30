@@ -1,0 +1,47 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="GotoBookmark0" />
+  <action id="InsertLiveTemplate" />
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="NavBar-selectUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="PopupMenu-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="PopupMenu-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="Table-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="Tree-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+</keymap>
